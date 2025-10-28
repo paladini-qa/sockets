@@ -1,0 +1,21 @@
+# Diretório de uploads
+6-file-server/uploads/
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PHP
+vendor/
+composer.lock
+
