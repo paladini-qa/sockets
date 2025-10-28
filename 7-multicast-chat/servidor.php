@@ -1,9 +1,4 @@
 <?php
-/**
- * Servidor de Chat UDP
- * Versão simplificada que usa broadcast ao invés de multicast para compatibilidade
- */
-
 class ChatServer {
     private $socket;
     private $port = 8894;
